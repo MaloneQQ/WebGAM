@@ -4,7 +4,7 @@ An open source web frontend for GAM (Google Apps Manager).  The goal is to creat
 This project is still in the beta stages & may not yet be suitable for managing your production Google Apps domains.  Read the documentation & test in a suitable environment prior to use in your production domains.
 
 # Limitations
-WebGAM has many limitations right now.  It is currently only known to work on Ubuntu Server 14.04.3 LTS 64-bit but may work on other Debian-based distros as well.  Only basic functionality for managing Google Apps domains is currently available in WebGAM.  See the documentation for a list of current capabilities & planned features.
+WebGAM has many limitations right now.  It is currently only known to work on Ubuntu Server 14.04.3 LTS 64-bit but may work on other versions of Ubuntu & other Debian-based distros as well.  Only basic functionality for managing Google Apps domains is currently available in WebGAM.  See the documentation for a list of current capabilities & planned features.
 
 # Requirements
 - A paid Google Apps account.  This software does not work with a free Google account.
